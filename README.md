@@ -28,8 +28,8 @@
 
 欢迎体验 Saychat，享受更加有趣的通讯与互动体验！
 
-# 注：SaychatData
-- SaychatData数据库仅支持SaychatV3.0.4及以上的版本
+# 关于
+- 此SaychatData数据库仅支持SaychatV3.0.4及以上的版本
 
 # 所有贡献者名单（Bilibili）：
 - 玩MC的Sc俊杰
@@ -39,5 +39,5 @@
 
 # 当前最新正式版：v3.0.3
 - 作者Bilibili账号：玩MC的Sc俊杰
+- 合作请加QQ：1049089744
 - 更多功能敬请期待！
-- 合作请于Bilibili联系作者:)
