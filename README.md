@@ -29,7 +29,7 @@
 欢迎体验 Saychat，享受更加有趣的通讯与互动体验！
 
 # 注：SaychatData
-- 该数据库仅支持SaychatV3.0.4及以上的版本
+- SaychatData数据库仅支持SaychatV3.0.4及以上的版本
 
 # 所有贡献者名单（Bilibili）：
 - 玩MC的Sc俊杰
