@@ -1,0 +1,9 @@
+[
+  {
+    "Usersname": "内测账号1",
+    "Unblock_time": "1767196799999",
+    "Banned": "true",
+    "Ban_type":"1",
+    "BanReason": "因为这是一个测试用的账号，所以被封禁了。"
+  }
+]
