@@ -1,9 +1,9 @@
 {
-  "version": "v3.0.4",
-  "vernum": "30400",
-  "url": "www.example.com",
+  "version": "RE3.1",
+  "vernum": "31000",
+  "url": "Unknown",
   "urlps": "1145",
-  "UpdateTime":"2025-8-02",
+  "UpdateTime":"2025-8-22",
   "UpdateType":"正式版",
-  "UpdateContent":"· 测试用\n666"
+  "UpdateContent":"增加个人主页"
 }
