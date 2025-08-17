@@ -1,9 +1,9 @@
 {
-  "version": "RE3.1",
-  "vernum": "31000",
-  "url": "Unknown",
-  "urlps": "1145",
-  "UpdateTime":"2025-8-22",
-  "UpdateType":"正式版",
-  "UpdateContent":"删除个性化\n优化启动动画\n修复1个BUG\n个人主页增加ID查看\n增加游客账号个人主页提示\n删除大量石山代码（试图优化性能的bro）"
+  "version": "v3.1-Pre1",
+  "vernum": "31001",
+  "url": "",
+  "urlps": "",
+  "UpdateTime":"2025-8-15",
+  "UpdateType":"备选版",
+  "UpdateContent":"不想写了("
 }
