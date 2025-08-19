@@ -1,9 +1,9 @@
 {
   "version": "RE 3.1",
   "vernum": "31000",
-  "url": "https://www.123865.com/s/4LvTTd-Jvga3",
+  "url": "https://www.123865.com/s/4LvTTd-Cvga3",
   "urlps": "msj6",
   "UpdateTime":"2025-08-19",
   "UpdateType":"正式版",
-  "UpdateContent":""
+  "UpdateContent":"删除个性化\n优化启动动画\n修复二个BUG\n个人主页增加ID查看\n游客账号个人主页提示\n删除大量石山代码（试图优化性能的bro）\nVIP用户支持自定义个人主页背景\n优化网易云音乐并减少2个自定义扩展的使用\n联机枪战v1.1 For Saychat更新：\n增加在线用户查看、报错页面、两个房间\n修复联机枪战进入房间1会卡死的bug\n修复联机枪战复活摇杆会指数级克隆的问题\n修复在部分情况下无法显示在线人员的问题"
 }
