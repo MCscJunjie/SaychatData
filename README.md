@@ -28,7 +28,7 @@
 # 关于
 - 此数据库仅支持REV3.0.4及以上的版本
 - Bilibili账号：玩MC的Sc俊杰
-- QQ交流群：1049089744
+- QQ交流群：625346076
 - 当前最新内部版本：v3.1.2
 - 当前最新公开版本：v3.1.1
 
@@ -39,4 +39,4 @@
 - 少儿编程星光
 - 开心云电脑
 
-Copyright (C) 2024-2025 MCsc_Junjie. All rights reserved.
+Copyright (C) 2023-2025 MCsc_Junjie. All rights reserved.
