@@ -1,9 +1,9 @@
 {
-  "version": "v3.1.1",
-  "vernum": "31100",
+  "version": "v3.1.2",
+  "vernum": "31200",
   "url": "Unknown",
   "urlps": "",
-  "UpdateTime":"2025-09-06",
+  "UpdateTime":"2025-09-27",
   "UpdateType":"正式版",
-  "UpdateContent":"删除大量无用变量\n优化更新检测代码"
+  "UpdateContent":"修改主页界面\n修改鸣谢界面\n修改关于界面\n更新SEC错误检查v1.1\n更新“检查更新”\n更新联机枪战v1.2\n- 增加详细信息\n- 增加按键映射\n- 修复玩家列表中自己中文名显示为聊天昵称的问题\n- 优化性能（作者的电脑帧率已提高150%左右）\n修改启动动画\n修复2个bug"
 }
