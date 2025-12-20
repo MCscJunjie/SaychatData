@@ -5,5 +5,5 @@
   "urlps": "",
   "UpdateTime":"2025-12-20",
   "UpdateType":"正式版",
-  "UpdateContent":"修复部分用户无法登录的BUG\n更新音乐2.1\n更新多群聊\n修复无法及时显示消息的BUG\n修改部分UI"
+  "UpdateContent":"修复部分用户无法登录的BUG\n更新音乐2.1\n更新多群聊\n修复无法及时显示消息的BUG\n修改部分UI\n⚠完全修复气泡框无法正常显示的BUG（从3.2延续至今）⚠"
 }
