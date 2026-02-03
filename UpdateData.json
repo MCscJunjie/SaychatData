@@ -1,9 +1,9 @@
 {
-  "version": "S3.2.03",
-  "vernum": "23203",
-  "url": "Unknown",
+  "version": "v3.2.5-Beta1",
+  "vernum": "32510",
+  "url": "https://www.bilibili.com/video/BV1GJ411x7h7",
   "urlps": "",
-  "UpdateTime":"2025-12-20",
-  "UpdateType":"正式版",
-  "UpdateContent":"修复部分用户无法登录的BUG\n更新音乐2.1\n更新多群聊\n修复无法及时显示消息的BUG\n修改部分UI\n⚠完全修复气泡框无法正常显示的BUG（从3.2延续至今）⚠"
+  "UpdateTime":"2026-02-02",
+  "UpdateType":"紧急修复",
+  "UpdateContent":"修复头像和个人主页关系的问题\n修复音乐无法使用的问题\n所有开发人员的名单移动到“关于”内"
 }
