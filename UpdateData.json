@@ -1,9 +1,9 @@
 {
-  "version": "v3.2.5-Beta1",
-  "vernum": "32510",
+  "version": "v3.3",
+  "vernum": "33000",
   "url": "https://www.bilibili.com/video/BV1GJ411x7h7",
   "urlps": "",
-  "UpdateTime":"2026-02-02",
-  "UpdateType":"紧急修复",
-  "UpdateContent":"修复头像和个人主页关系的问题\n修复音乐无法使用的问题\n所有开发人员的名单移动到“关于”内"
+  "UpdateTime":"2026-02",
+  "UpdateType":"正式版",
+  "UpdateContent":""
 }
